@@ -15,6 +15,10 @@ This website explains SEO, online PR management, and social media marketing.
 
 https://dommy99.github.io/Horiseon-Dominique/
 
+## Image
+
+![alt text](Develop\assets\images\Capture.jpg)
+
 ## Contribution
 
 Code and accessibility optimization - Dominique Akers
