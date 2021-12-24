@@ -13,7 +13,7 @@ This website explains SEO, online PR management, and social media marketing.
 
 ## Website
 
-file:///C:/Users/domin/urban-octo-telegram/Develop/index.html
+https://dommy99.github.io/Horiseon-Dominique/
 
 ## Contribution
 
